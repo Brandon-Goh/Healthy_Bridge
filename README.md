@@ -1,4 +1,5 @@
 # Healthy Bridge
+### Hack The North 2018 Indico API Prize Winner
 *Bridging the gap between doctors and patients in order to combat mental illness' and save lives.*
 
 ![Healthy Bridge logo](https://brandongoh.me/static/img/healthy.png)
